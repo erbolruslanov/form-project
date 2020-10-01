@@ -165,7 +165,7 @@ body {
     border: 2px solid white;
     top: -42px;
     left: -130px;
-    border-radius: 10px;
+    border-radius: 9px;
 }
 .line-up:after{
     content: "";
@@ -176,5 +176,5 @@ body {
     border: 2px solid white;
     top: -42px;
     right: -130px;
-    border-radius: 10px;
+    border-radius: 9px;
 }
